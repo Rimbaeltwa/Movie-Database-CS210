@@ -749,6 +749,490 @@ movies_data = [
         "imdb_rating": 8.1,
         "rym_rating": 3.96
     },
+{
+        "title": "Harry Potter and the Chamber of Secrets",
+        "release_date": "2002-11-15",
+        "budget": 100000000,
+        "box_office": 879500000,
+        "production_company": "Warner Bros.",
+        "duration": 161,
+        "director": "Chris Columbus",
+        "director_country": "USA",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.4,
+        "rym_rating": 3.59
+    },
+    {
+        "title": "Phone Booth",
+        "release_date": "2002-09-10",
+        "budget": 13000000,
+        "box_office": 97500000,
+        "production_company": "20th Century Fox",
+        "duration": 81,
+        "director": "Joel Schumacher",
+        "director_country": "USA",
+        "genre": "Thriller",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.0,
+        "rym_rating": 3.43
+    },
+    {
+        "title": "8 Mile",
+        "release_date": "2002-11-08",
+        "budget": 41000000,
+        "box_office": 242900000,
+        "production_company": "Imagine Entertainment",
+        "duration": 110,
+        "director": "Curtis Hanson",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.1,
+        "rym_rating": 3.65
+    },
+    {
+        "title": "City of God",
+        "release_date": "2002-08-30",
+        "budget": 3300000,
+        "box_office": 30000000,
+        "production_company": "O2 Filmes",
+        "duration": 130,
+        "director": "Fernando Meirelles",
+        "director_country": "Brazil",
+        "genre": "Crime",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.45
+    },
+    {
+        "title": "Ice Age",
+        "release_date": "2002-03-15",
+        "budget": 59000000,
+        "box_office": 383300000,
+        "production_company": "Blue Sky Studios",
+        "duration": 81,
+        "director": "Chris Wedge",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.5,
+        "rym_rating": 3.68
+    },
+    {
+        "title": "A Beautiful Mind",
+        "release_date": "2001-12-21",
+        "budget": 58000000,
+        "box_office": 317700000,
+        "production_company": "Universal Pictures",
+        "duration": 135,
+        "director": "Ron Howard",
+        "director_country": "USA",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 3.93
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release_date": "2001-12-19",
+        "budget": 93000000,
+        "box_office": 897700000,
+        "production_company": "New Line Cinema",
+        "duration": 178,
+        "director": "Peter Jackson",
+        "director_country": "New Zealand",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.30
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "release_date": "2001-11-16",
+        "budget": 125000000,
+        "box_office": 974800000,
+        "production_company": "Warner Bros.",
+        "duration": 152,
+        "director": "Chris Columbus",
+        "director_country": "USA",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.63
+    },
+    {
+        "title": "Planet of the Apes",
+        "release_date": "2001-07-27",
+        "budget": 100000000,
+        "box_office": 362200000,
+        "production_company": "20th Century Fox",
+        "duration": 119,
+        "director": "Tim Burton",
+        "director_country": "USA",
+        "genre": "Sci-Fi",
+        "subgenre": "Action",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 5.7,
+        "rym_rating": 2.88
+    },
+    {
+        "title": "Spirited Away",
+        "release_date": "2001-07-20",
+        "budget": 19000000,
+        "box_office": 395800000,
+        "production_company": "Studio Ghibli",
+        "duration": 125,
+        "director": "Hayao Miyazaki",
+        "director_country": "Japan",
+        "genre": "Animation",
+        "subgenre": "Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.45
+    },
+    {
+        "title": "Mulholland Drive",
+        "release_date": "2001-10-08",
+        "budget": 15000000,
+        "box_office": 20400000,
+        "production_company": "Universal Focus",
+        "duration": 147,
+        "director": "David Lynch",
+        "director_country": "USA",
+        "genre": "Mystery",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.36
+    },
+    {
+        "title": "Battle Royale",
+        "release_date": "2000-12-16",
+        "budget": 4500000,
+        "box_office": 30000000,
+        "production_company": "Toei Company",
+        "duration": 114,
+        "director": "Kinji Fukasaku",
+        "director_country": "Japan",
+        "genre": "Thriller",
+        "subgenre": "Action",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.91
+    },
+{
+        "title": "Eyes Wide Shut",
+        "release_date": "1999-07-16",
+        "budget": 65000000,
+        "box_office": 162100000,
+        "production_company": "Warner Bros.",
+        "duration": 159,
+        "director": "Stanley Kubrick",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Mystery",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.5,
+        "rym_rating": 3.91
+    },
+    {
+        "title": "The Matrix",
+        "release_date": "1999-03-31",
+        "budget": 63000000,
+        "box_office": 466600000,
+        "production_company": "Warner Bros.",
+        "duration": 136,
+        "director": "The Wachowskis",
+        "director_country": "USA",
+        "genre": "Sci-Fi",
+        "subgenre": "Action",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.7,
+        "rym_rating": 4.29
+    },
+    {
+        "title": "The Blair Witch Project",
+        "release_date": "1999-07-14",
+        "budget": 60000,
+        "box_office": 248600000,
+        "production_company": "Haxan Films",
+        "duration": 81,
+        "director": "Daniel Myrick, Eduardo Sánchez",
+        "director_country": "USA",
+        "genre": "Horror",
+        "subgenre": "Mystery",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.5,
+        "rym_rating": 3.42
+    },
+    {
+        "title": "The Truman Show",
+        "release_date": "1998-06-05",
+        "budget": 60000000,
+        "box_office": 264100000,
+        "production_company": "Paramount Pictures",
+        "duration": 103,
+        "director": "Peter Weir",
+        "director_country": "Australia",
+        "genre": "Drama",
+        "subgenre": "Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.04
+    },
+    {
+        "title": "The Big Lebowski",
+        "release_date": "1998-03-06",
+        "budget": 15000000,
+        "box_office": 46180000,
+        "production_company": "Gramercy Pictures",
+        "duration": 117,
+        "director": "Joel Coen",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.15
+    },
+    {
+        "title": "Titanic",
+        "release_date": "1997-12-19",
+        "budget": 200000000,
+        "box_office": 2208000000,
+        "production_company": "20th Century Fox",
+        "duration": 195,
+        "director": "James Cameron",
+        "director_country": "Canada",
+        "genre": "Romance",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.68
+    },
+    {
+        "title": "Lost Highway",
+        "release_date": "1997-02-21",
+        "budget": 15000000,
+        "box_office": 3790000,
+        "production_company": "October Films",
+        "duration": 134,
+        "director": "David Lynch",
+        "director_country": "USA",
+        "genre": "Mystery",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 4.08
+    },
+    {
+        "title": "The Rolling Stones Rock and Roll Circus",
+        "release_date": "1996-10-14",
+        "budget": None,
+        "box_office": None,
+        "production_company": "ABKCO",
+        "duration": 66,
+        "director": "Michael Lindsay-Hogg",
+        "director_country": "UK",
+        "genre": "Music",
+        "subgenre": "Concert Film",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.8,
+        "rym_rating": 4.01
+    },
+    {
+        "title": "Fargo",
+        "release_date": "1996-03-08",
+        "budget": 7000000,
+        "box_office": 60700000,
+        "production_company": "PolyGram Filmed Entertainment",
+        "duration": 98,
+        "director": "Joel Coen",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.23
+    },
+    {
+        "title": "Shine",
+        "release_date": "1996-01-26",
+        "budget": 5500000,
+        "box_office": 35600000,
+        "production_company": "Fine Line Features",
+        "duration": 105,
+        "director": "Scott Hicks",
+        "director_country": "Australia",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.83
+    },
+    {
+        "title": "Twelve Monkeys",
+        "release_date": "1995-12-29",
+        "budget": 29500000,
+        "box_office": 168800000,
+        "production_company": "Universal Pictures",
+        "duration": 129,
+        "director": "Terry Gilliam",
+        "director_country": "USA",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.05
+    },
+    {
+        "title": "The Beatles Anthology",
+        "release_date": "1995-11-19",
+        "budget": None,
+        "box_office": None,
+        "production_company": "Apple Corps",
+        "duration": 660,
+        "director": "Geoff Wonfor",
+        "director_country": "UK",
+        "genre": "Documentary",
+        "subgenre": "Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 9.0,
+        "rym_rating": 4.55
+    },
+    {
+        "title": "Total Eclipse",
+        "release_date": "1995-11-03",
+        "budget": None,
+        "box_office": None,
+        "production_company": "Fine Line Features",
+        "duration": 111,
+        "director": "Agnieszka Holland",
+        "director_country": "Poland",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.5,
+        "rym_rating": 3.32
+    },
+    {
+        "title": "Toy Story",
+        "release_date": "1995-11-22",
+        "budget": 30000000,
+        "box_office": 394400000,
+        "production_company": "Pixar",
+        "duration": 81,
+        "director": "John Lasseter",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.12
+    },
+
+{
+        "title": "Fallen Angels",
+        "release_date": "1995-09-06",
+        "budget": None,
+        "box_office": None,
+        "production_company": "Jet Tone Films",
+        "duration": 99,
+        "director": "Wong Kar-wai",
+        "director_country": "Hong Kong",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 4.12
+    },
+    {
+        "title": "The Usual Suspects",
+        "release_date": "1995-07-19",
+        "budget": 6000000,
+        "box_office": 23300000,
+        "production_company": "PolyGram Filmed Entertainment",
+        "duration": 106,
+        "director": "Bryan Singer",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Mystery",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.17
+    },
+    {
+        "title": "Léon: The Professional",
+        "release_date": "1994-09-14",
+        "budget": 16000000,
+        "box_office": 46000000,
+        "production_company": "Gaumont",
+        "duration": 110,
+        "director": "Luc Besson",
+        "director_country": "France",
+        "genre": "Action",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.14
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "release_date": "1994-09-23",
+        "budget": 25000000,
+        "box_office": 28800000,
+        "production_company": "Castle Rock Entertainment",
+        "duration": 142,
+        "director": "Frank Darabont",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 9.3,
+        "rym_rating": 4.46
+    },
+    {
+        "title": "Forrest Gump",
+        "release_date": "1994-07-06",
+        "budget": 55000000,
+        "box_office": 678200000,
+        "production_company": "Paramount Pictures",
+        "duration": 142,
+        "director": "Robert Zemeckis",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.18
+    },
+    {
+        "title": "The Lion King",
+        "release_date": "1994-06-15",
+        "budget": 45000000,
+        "box_office": 968500000,
+        "production_company": "Walt Disney Pictures",
+        "duration": 88,
+        "director": "Roger Allers, Rob Minkoff",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.25
+    },
+]
+
+
 
 ]
 
