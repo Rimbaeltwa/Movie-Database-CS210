@@ -1230,9 +1230,920 @@ movies_data = [
         "imdb_rating": 8.5,
         "rym_rating": 4.25
     },
+     {
+        "title": "Pulp Fiction",
+        "release_date": "1994-10-14",
+        "budget": 8000000,
+        "box_office": 213900000,
+        "production_company": "Miramax",
+        "duration": 154,
+        "director": "Quentin Tarantino",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.9,
+        "rym_rating": 4.41
+    },
+    {
+        "title": "Nirvana: Unplugged In New York",
+        "release_date": "1994-11-18",
+        "budget": None,
+        "box_office": None,
+        "production_company": "MTV",
+        "duration": 66,
+        "director": "Beth McCarthy-Miller",
+        "director_country": "USA",
+        "genre": "Music",
+        "subgenre": "Live Performance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 9.1,
+        "rym_rating": 4.58
+    },
+    {
+        "title": "Alive",
+        "release_date": "1993-01-15",
+        "budget": 32000000,
+        "box_office": 36700000,
+        "production_company": "Touchstone Pictures",
+        "duration": 120,
+        "director": "Frank Marshall",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Survival",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.1,
+        "rym_rating": 3.40
+    },
+    {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "release_date": "1992-05-16",
+        "budget": 10000000,
+        "box_office": 4170000,
+        "production_company": "New Line Cinema",
+        "duration": 134,
+        "director": "David Lynch",
+        "director_country": "USA",
+        "genre": "Mystery",
+        "subgenre": "Horror",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 4.00
+    },
+    {
+        "title": "Reservoir Dogs",
+        "release_date": "1992-01-21",
+        "budget": 1200000,
+        "box_office": 2880000,
+        "production_company": "Miramax",
+        "duration": 99,
+        "director": "Quentin Tarantino",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.29
+    },
+    {
+        "title": "The Doors",
+        "release_date": "1991-03-01",
+        "budget": 32000000,
+        "box_office": 34700000,
+        "production_company": "Imagine Entertainment",
+        "duration": 140,
+        "director": "Oliver Stone",
+        "director_country": "USA",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.61
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "release_date": "1991-02-14",
+        "budget": 19000000,
+        "box_office": 272700000,
+        "production_company": "Orion Pictures",
+        "duration": 118,
+        "director": "Jonathan Demme",
+        "director_country": "USA",
+        "genre": "Thriller",
+        "subgenre": "Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.27
+    },
+    {
+        "title": "Edward Scissorhands",
+        "release_date": "1990-12-07",
+        "budget": 20000000,
+        "box_office": 86.02e6,  # $86 million
+        "production_company": "20th Century Fox",
+        "duration": 105,
+        "director": "Tim Burton",
+        "director_country": "USA",
+        "genre": "Fantasy",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 4.04
+    },
+    {
+        "title": "Home Alone",
+        "release_date": "1990-11-16",
+        "budget": 18000000,
+        "box_office": 476700000,
+        "production_company": "20th Century Fox",
+        "duration": 103,
+        "director": "Chris Columbus",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Family",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.75
+    },
+    {
+        "title": "GoodFellas",
+        "release_date": "1990-09-19",
+        "budget": 25000000,
+        "box_office": 47600000,
+        "production_company": "Warner Bros.",
+        "duration": 146,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Biography",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.7,
+        "rym_rating": 4.41
+    },
+    {
+        "title": "Twin Peaks",
+        "release_date": "1990-04-08",
+        "budget": None,
+        "box_office": None,
+        "production_company": "ABC",
+        "duration": 47,  # Average episode length
+        "director": "David Lynch (Pilot)",
+        "director_country": "USA",
+        "genre": "Mystery",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.45
+    },
+    {
+        "title": "Dead Poets Society",
+        "release_date": "1989-06-02",
+        "budget": 16500000,
+        "box_office": 235900000,
+        "production_company": "Touchstone Pictures",
+        "duration": 128,
+        "director": "Peter Weir",
+        "director_country": "Australia",
+        "genre": "Drama",
+        "subgenre": "Coming of Age",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.00
+    },
+    {
+        "title": "Beetlejuice",
+        "release_date": "1988-03-30",
+        "budget": 15000000,
+        "box_office": 74800000,
+        "production_company": "Warner Bros.",
+        "duration": 92,
+        "director": "Tim Burton",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.5,
+        "rym_rating": 3.87
+    },
+    {
+        "title": "Full Metal Jacket",
+        "release_date": "1987-06-26",
+        "budget": 30000000,
+        "box_office": 120000000,
+        "production_company": "Warner Bros.",
+        "duration": 116,
+        "director": "Stanley Kubrick",
+        "director_country": "USA/UK",
+        "genre": "War",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.28
+    },
+    {
+        "title": "Come and See",
+        "release_date": "1985-07-09",
+        "budget": None,
+        "box_office": None,
+        "production_company": "Mosfilm",
+        "duration": 142,
+        "director": "Elem Klimov",
+        "director_country": "Soviet Union",
+        "genre": "War",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.50
+    },
+    {
+        "title": "Back to the Future",
+        "release_date": "1985-07-03",
+        "budget": 19000000,
+        "box_office": 388800000,
+        "production_company": "Universal Pictures",
+        "duration": 116,
+        "director": "Robert Zemeckis",
+        "director_country": "USA",
+        "genre": "Sci-Fi",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.24
+    },
+    {
+        "title": "Stop Making Sense",
+        "release_date": "1984-09-19",
+        "budget": 1250000,
+        "box_office": 5700000,
+        "production_company": "Cinecom Pictures",
+        "duration": 88,
+        "director": "Jonathan Demme",
+        "director_country": "USA",
+        "genre": "Music",
+        "subgenre": "Concert Film",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.59
+    },
+    {
+        "title": "A Nightmare on Elm Street",
+        "release_date": "1984-11-09",
+        "budget": 1800000,
+        "box_office": 57200000,
+        "production_company": "New Line Cinema",
+        "duration": 91,
+        "director": "Wes Craven",
+        "director_country": "USA",
+        "genre": "Horror",
+        "subgenre": "Slasher",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.4,
+        "rym_rating": 3.89
+    },
+    {
+        "title": "Amadeus",
+        "release_date": "1984-09-06",
+        "budget": 18000000,
+        "box_office": 90000000,
+        "production_company": "Orion Pictures",
+        "duration": 160,
+        "director": "Miloš Forman",
+        "director_country": "Czechia/USA",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.30
+    },
+     {
+        "title": "Predestination",
+        "release_date": "2014-08-28",
+        "budget": 7000000,
+        "box_office": 5100000,
+        "production_company": "Stage 6 Films",
+        "duration": 97,
+        "director": "Michael Spierig, Peter Spierig",
+        "director_country": "Australia",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.4,
+        "rym_rating": 3.83
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "release_date": "2014-02-06",
+        "budget": 25000000,
+        "box_office": 173000000,
+        "production_company": "Fox Searchlight Pictures",
+        "duration": 99,
+        "director": "Wes Anderson",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.10
+    },
+    {
+        "title": "Boyhood",
+        "release_date": "2014-01-19",
+        "budget": 4000000,
+        "box_office": 48000000,
+        "production_company": "IFC Films",
+        "duration": 165,
+        "director": "Richard Linklater",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Coming of Age",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.92
+    },
+    {
+        "title": "Whiplash",
+        "release_date": "2014-01-16",
+        "budget": 3300000,
+        "box_office": 49000000,
+        "production_company": "Sony Pictures Classics",
+        "duration": 106,
+        "director": "Damien Chazelle",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.25
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "release_date": "2013-12-25",
+        "budget": 100000000,
+        "box_office": 406900000,
+        "production_company": "Paramount Pictures",
+        "duration": 180,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Biography",
+        "subgenre": "Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.11
+    },
+    {
+        "title": "Her",
+        "release_date": "2013-10-12",
+        "budget": 23000000,
+        "box_office": 48000000,
+        "production_company": "Warner Bros.",
+        "duration": 126,
+        "director": "Spike Jonze",
+        "director_country": "USA",
+        "genre": "Romance",
+        "subgenre": "Sci-Fi",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.07
+    },
+    {
+        "title": "Jodorowsky's Dune",
+        "release_date": "2013-08-30",
+        "budget": None,
+        "box_office": 700000,
+        "production_company": "Sony Pictures Classics",
+        "duration": 90,
+        "director": "Frank Pavich",
+        "director_country": "USA",
+        "genre": "Documentary",
+        "subgenre": "Film History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.07
+    },
+    {
+        "title": "Gravity",
+        "release_date": "2013-08-28",
+        "budget": 100000000,
+        "box_office": 723200000,
+        "production_company": "Warner Bros.",
+        "duration": 91,
+        "director": "Alfonso Cuarón",
+        "director_country": "Mexico",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.86
+    },
+    {
+        "title": "The Purge",
+        "release_date": "2013-05-02",
+        "budget": 3000000,
+        "box_office": 89000000,
+        "production_company": "Universal Pictures",
+        "duration": 85,
+        "director": "James DeMonaco",
+        "director_country": "USA",
+        "genre": "Horror",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 5.7,
+        "rym_rating": 2.88
+    },
+    {
+        "title": "Blue Is the Warmest Color",
+        "release_date": "2013-05-23",
+        "budget": 4000000,
+        "box_office": 19000000,
+        "production_company": "Wild Bunch",
+        "duration": 179,
+        "director": "Abdellatif Kechiche",
+        "director_country": "France",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.98
+    },
+    {
+        "title": "Predestination",
+        "release_date": "2014-08-28",
+        "budget": 7000000,
+        "box_office": 5100000,
+        "production_company": "Stage 6 Films",
+        "duration": 97,
+        "director": "Michael Spierig, Peter Spierig",
+        "director_country": "Australia",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.4,
+        "rym_rating": 3.83
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "release_date": "2014-02-06",
+        "budget": 25000000,
+        "box_office": 173000000,
+        "production_company": "Fox Searchlight Pictures",
+        "duration": 99,
+        "director": "Wes Anderson",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.10
+    },
+    {
+        "title": "Boyhood",
+        "release_date": "2014-01-19",
+        "budget": 4000000,
+        "box_office": 48000000,
+        "production_company": "IFC Films",
+        "duration": 165,
+        "director": "Richard Linklater",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Coming of Age",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.92
+    },
+    {
+        "title": "Whiplash",
+        "release_date": "2014-01-16",
+        "budget": 3300000,
+        "box_office": 49000000,
+        "production_company": "Sony Pictures Classics",
+        "duration": 106,
+        "director": "Damien Chazelle",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.25
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "release_date": "2013-12-25",
+        "budget": 100000000,
+        "box_office": 406900000,
+        "production_company": "Paramount Pictures",
+        "duration": 180,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Biography",
+        "subgenre": "Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.11
+    },
+    {
+        "title": "Her",
+        "release_date": "2013-10-12",
+        "budget": 23000000,
+        "box_office": 48000000,
+        "production_company": "Warner Bros.",
+        "duration": 126,
+        "director": "Spike Jonze",
+        "director_country": "USA",
+        "genre": "Romance",
+        "subgenre": "Sci-Fi",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.07
+    },
+    {
+        "title": "Jodorowsky's Dune",
+        "release_date": "2013-08-30",
+        "budget": None,
+        "box_office": 700000,
+        "production_company": "Sony Pictures Classics",
+        "duration": 90,
+        "director": "Frank Pavich",
+        "director_country": "USA",
+        "genre": "Documentary",
+        "subgenre": "Film History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.07
+    },
+    {
+        "title": "Gravity",
+        "release_date": "2013-08-28",
+        "budget": 100000000,
+        "box_office": 723200000,
+        "production_company": "Warner Bros.",
+        "duration": 91,
+        "director": "Alfonso Cuarón",
+        "director_country": "Mexico",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.86
+    },
+    {
+        "title": "The Purge",
+        "release_date": "2013-05-02",
+        "budget": 3000000,
+        "box_office": 89000000,
+        "production_company": "Universal Pictures",
+        "duration": 85,
+        "director": "James DeMonaco",
+        "director_country": "USA",
+        "genre": "Horror",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 5.7,
+        "rym_rating": 2.88
+    },
+    {
+        "title": "Blue Is the Warmest Color",
+        "release_date": "2013-05-23",
+        "budget": 4000000,
+        "box_office": 19000000,
+        "production_company": "Wild Bunch",
+        "duration": 179,
+        "director": "Abdellatif Kechiche",
+        "director_country": "France",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.98
+    }
+])
+Let me know if you need more film entries or adjustments! 🎬
+
+
+
+
+
+
+Şunu dedin:
+11. The Great Gatsby
+12. Jobs
+13. Django Unchained
+14. The Perks of Being a Wallflower
+15. The Act of Killing
+16. Road to Ninja: Naruto the Movie
+17. In Time
+18. Harry Potter and the Deathly Hallows: Part 2
+19. Drive
+20. Lemonade Mouth
+ChatGPT:
+ChatGPT
+Here's the continuation with the next batch of films:
+
+python
+Kodu kopyala
+movies_data.extend([
+    {
+        "title": "The Great Gatsby",
+        "release_date": "2013-05-10",
+        "budget": 105000000,
+        "box_office": 353600000,
+        "production_company": "Warner Bros.",
+        "duration": 143,
+        "director": "Baz Luhrmann",
+        "director_country": "Australia",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.50
+    },
+    {
+        "title": "Jobs",
+        "release_date": "2013-01-25",
+        "budget": 12500000,
+        "box_office": 35600000,
+        "production_company": "Open Road Films",
+        "duration": 128,
+        "director": "Joshua Michael Stern",
+        "director_country": "USA",
+        "genre": "Biography",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.0,
+        "rym_rating": 2.95
+    },
+    {
+        "title": "Django Unchained",
+        "release_date": "2012-12-25",
+        "budget": 100000000,
+        "box_office": 425400000,
+        "production_company": "Columbia Pictures",
+        "duration": 165,
+        "director": "Quentin Tarantino",
+        "director_country": "USA",
+        "genre": "Western",
+        "subgenre": "Revenge",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.18
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "release_date": "2012-09-08",
+        "budget": 13000000,
+        "box_office": 33400000,
+        "production_company": "Summit Entertainment",
+        "duration": 103,
+        "director": "Stephen Chbosky",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Coming of Age",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.82
+    },
+    {
+        "title": "The Act of Killing",
+        "release_date": "2012-08-31",
+        "budget": None,
+        "box_office": 500000,
+        "production_company": "Drafthouse Films",
+        "duration": 159,
+        "director": "Joshua Oppenheimer",
+        "director_country": "Denmark/UK",
+        "genre": "Documentary",
+        "subgenre": "Historical",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.19
+    },
+    {
+        "title": "Road to Ninja: Naruto the Movie",
+        "release_date": "2012-07-28",
+        "budget": None,
+        "box_office": 17300000,
+        "production_company": "Toho",
+        "duration": 109,
+        "director": "Hayato Date",
+        "director_country": "Japan",
+        "genre": "Anime",
+        "subgenre": "Action",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.52
+    },
+    {
+        "title": "In Time",
+        "release_date": "2011-10-20",
+        "budget": 40000000,
+        "box_office": 174000000,
+        "production_company": "20th Century Fox",
+        "duration": 109,
+        "director": "Andrew Niccol",
+        "director_country": "New Zealand",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.7,
+        "rym_rating": 3.07
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "release_date": "2011-07-07",
+        "budget": 250000000,
+        "box_office": 1342000000,
+        "production_company": "Warner Bros.",
+        "duration": 130,
+        "director": "David Yates",
+        "director_country": "UK",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.03
+    },
+    {
+        "title": "Drive",
+        "release_date": "2011-05-20",
+        "budget": 15000000,
+        "box_office": 81000000,
+        "production_company": "FilmDistrict",
+        "duration": 100,
+        "director": "Nicolas Winding Refn",
+        "director_country": "Denmark",
+        "genre": "Crime",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.8,
+        "rym_rating": 4.01
+    },
+    {
+        "title": "Lemonade Mouth",
+        "release_date": "2011-04-15",
+        "budget": None,
+        "box_office": None,  # TV Movie
+        "production_company": "Disney Channel",
+        "duration": 103,
+        "director": "Patricia Riggen",
+        "director_country": "Mexico",
+        "genre": "Musical",
+        "subgenre": "Teen Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.9,
+        "rym_rating": 3.12
+    },
+{
+        "title": "A Separation",
+        "release_date": "2011-03-16",
+        "budget": 500000,
+        "box_office": 24000000,
+        "production_company": "Asghar Farhadi Productions",
+        "duration": 123,
+        "director": "Asghar Farhadi",
+        "director_country": "Iran",
+        "genre": "Drama",
+        "subgenre": "Family, Courtroom",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.12
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "release_date": "2010-11-19",
+        "budget": 250000000,
+        "box_office": 976000000,
+        "production_company": "Warner Bros.",
+        "duration": 146,
+        "director": "David Yates",
+        "director_country": "UK",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.85
+    },
+    {
+        "title": "Submarine",
+        "release_date": "2010-10-08",
+        "budget": 1500000,
+        "box_office": 5000000,
+        "production_company": "Film4",
+        "duration": 97,
+        "director": "Richard Ayoade",
+        "director_country": "UK",
+        "genre": "Drama",
+        "subgenre": "Coming of Age",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.3,
+        "rym_rating": 3.71
+    },
+    {
+        "title": "Black Swan",
+        "release_date": "2010-09-01",
+        "budget": 13000000,
+        "box_office": 329000000,
+        "production_company": "Fox Searchlight Pictures",
+        "duration": 108,
+        "director": "Darren Aronofsky",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Psychological Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.06
+    },
+    {
+        "title": "Scott Pilgrim vs. the World",
+        "release_date": "2010-08-13",
+        "budget": 60000000,
+        "box_office": 49400000,
+        "production_company": "Universal Pictures",
+        "duration": 112,
+        "director": "Edgar Wright",
+        "director_country": "UK",
+        "genre": "Action",
+        "subgenre": "Comedy, Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.5,
+        "rym_rating": 3.95
+    },
+    {
+        "title": "Inception",
+        "release_date": "2010-07-16",
+        "budget": 160000000,
+        "box_office": 837000000,
+        "production_company": "Warner Bros.",
+        "duration": 148,
+        "director": "Christopher Nolan",
+        "director_country": "UK",
+        "genre": "Sci-Fi",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.24
+    },
+    {
+        "title": "Toy Story 3",
+        "release_date": "2010-06-18",
+        "budget": 200000000,
+        "box_office": 1067000000,
+        "production_company": "Pixar",
+        "duration": 103,
+        "director": "Lee Unkrich",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Family, Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.15
+    },
+    {
+        "title": "Shutter Island",
+        "release_date": "2010-02-19",
+        "budget": 80000000,
+        "box_office": 294800000,
+        "production_company": "Paramount Pictures",
+        "duration": 138,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Thriller",
+        "subgenre": "Psychological, Mystery",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.00
+    },
+    {
+        "title": "Nowhere Boy",
+        "release_date": "2009-10-29",
+        "budget": 10000000,
+        "box_office": 6800000,
+        "production_company": "Ecosse Films",
+        "duration": 98,
+        "director": "Sam Taylor-Johnson",
+        "director_country": "UK",
+        "genre": "Biography",
+        "subgenre": "Drama, Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.1,
+        "rym_rating": 3.61
+    },
+    {
+        "title": "3 Idiots",
+        "release_date": "2009-12-25",
+        "budget": 5500000,
+        "box_office": 90000000,
+        "production_company": "Vinod Chopra Films",
+        "duration": 170,
+        "director": "Rajkumar Hirani",
+        "director_country": "India",
+        "genre": "Comedy",
+        "subgenre": "Drama, Inspirational",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.05
+    }
+
+    
 ]
 
 
-
-]
 
