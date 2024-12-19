@@ -2140,7 +2140,458 @@ movies_data.extend([
         "personal_rating": None,  # Your rating here
         "imdb_rating": 8.4,
         "rym_rating": 4.05
+    },
+    {
+        "title": "Avatar",
+        "release_date": "2009-12-18",
+        "budget": 237000000,
+        "box_office": 2926000000,
+        "production_company": "20th Century Fox",
+        "duration": 162,
+        "director": "James Cameron",
+        "director_country": "Canada",
+        "genre": "Sci-Fi",
+        "subgenre": "Adventure, Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.86
+    },
+    {
+        "title": "District 9",
+        "release_date": "2009-08-14",
+        "budget": 30000000,
+        "box_office": 210800000,
+        "production_company": "TriStar Pictures",
+        "duration": 112,
+        "director": "Neill Blomkamp",
+        "director_country": "South Africa",
+        "genre": "Sci-Fi",
+        "subgenre": "Action, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.91
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "release_date": "2009-07-15",
+        "budget": 250000000,
+        "box_office": 934500000,
+        "production_company": "Warner Bros.",
+        "duration": 153,
+        "director": "David Yates",
+        "director_country": "UK",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.84
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "release_date": "2009-06-13",
+        "budget": 16000000,
+        "box_office": 46700000,
+        "production_company": "Stage 6 Films",
+        "duration": 93,
+        "director": "Lasse Hallström",
+        "director_country": "Sweden",
+        "genre": "Drama",
+        "subgenre": "Family, Biography",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 3.93
+    },
+    {
+        "title": "Inglourious Basterds",
+        "release_date": "2009-08-21",
+        "budget": 70000000,
+        "box_office": 321500000,
+        "production_company": "Universal Pictures",
+        "duration": 153,
+        "director": "Quentin Tarantino",
+        "director_country": "USA",
+        "genre": "War",
+        "subgenre": "Action, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.3,
+        "rym_rating": 4.18
+    },
+    {
+        "title": "Dogtooth",
+        "release_date": "2009-06-01",
+        "budget": 250000,
+        "box_office": 1300000,
+        "production_company": "Boo Productions",
+        "duration": 97,
+        "director": "Yorgos Lanthimos",
+        "director_country": "Greece",
+        "genre": "Drama",
+        "subgenre": "Psychological, Experimental",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.89
+    },
+    {
+        "title": "Mary and Max",
+        "release_date": "2009-01-15",
+        "budget": 8000000,
+        "box_office": 1700000,
+        "production_company": "Melodrama Pictures",
+        "duration": 92,
+        "director": "Adam Elliot",
+        "director_country": "Australia",
+        "genre": "Animation",
+        "subgenre": "Drama, Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.13
+    },
+    {
+        "title": "The Curious Case of Benjamin Button",
+        "release_date": "2008-12-25",
+        "budget": 150000000,
+        "box_office": 335800000,
+        "production_company": "Paramount Pictures",
+        "duration": 166,
+        "director": "David Fincher",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Fantasy, Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.8,
+        "rym_rating": 3.92
+    },
+    {
+        "title": "A Son of the Sun",
+        "release_date": "2008-12-01",
+        "budget": 1000000,
+        "box_office": None,
+        "production_company": "Independent",
+        "duration": 90,
+        "director": "Unknown",
+        "director_country": "Japan",
+        "genre": "Drama",
+        "subgenre": "Experimental, Art",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": None,
+        "rym_rating": 3.45
+    },
+    {
+        "title": "Madagascar: Escape 2 Africa",
+        "release_date": "2008-11-07",
+        "budget": 150000000,
+        "box_office": 603900000,
+        "production_company": "DreamWorks Animation",
+        "duration": 89,
+        "director": "Eric Darnell, Tom McGrath",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Adventure, Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.6,
+        "rym_rating": 3.45
+    },
+    {
+        "title": "Slumdog Millionaire",
+        "release_date": "2008-11-12",
+        "budget": 15000000,
+        "box_office": 378000000,
+        "production_company": "Fox Searchlight Pictures",
+        "duration": 120,
+        "director": "Danny Boyle",
+        "director_country": "UK",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.02
+    },
+    {
+        "title": "Vicky Cristina Barcelona",
+        "release_date": "2008-08-15",
+        "budget": 15000000,
+        "box_office": 96400000,
+        "production_company": "The Weinstein Company",
+        "duration": 96,
+        "director": "Woody Allen",
+        "director_country": "USA",
+        "genre": "Romance",
+        "subgenre": "Comedy, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.1,
+        "rym_rating": 3.66
+    },
+    {
+        "title": "The Dark Knight",
+        "release_date": "2008-07-18",
+        "budget": 185000000,
+        "box_office": 1004000000,
+        "production_company": "Warner Bros.",
+        "duration": 152,
+        "director": "Christopher Nolan",
+        "director_country": "UK",
+        "genre": "Action",
+        "subgenre": "Crime, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 9.0,
+        "rym_rating": 4.44
+    },
+    {
+        "title": "WALL·E",
+        "release_date": "2008-06-27",
+        "budget": 180000000,
+        "box_office": 532500000,
+        "production_company": "Pixar Animation Studios",
+        "duration": 98,
+        "director": "Andrew Stanton",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Sci-Fi, Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.28
+    },
+    {
+        "title": "Wanted",
+        "release_date": "2008-06-27",
+        "budget": 75000000,
+        "box_office": 342500000,
+        "production_company": "Universal Pictures",
+        "duration": 110,
+        "director": "Timur Bekmambetov",
+        "director_country": "Russia",
+        "genre": "Action",
+        "subgenre": "Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.7,
+        "rym_rating": 3.28
+    },
+    {
+        "title": "Kung Fu Panda",
+        "release_date": "2008-06-06",
+        "budget": 130000000,
+        "box_office": 632000000,
+        "production_company": "DreamWorks Animation",
+        "duration": 92,
+        "director": "Mark Osborne, John Stevenson",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Comedy, Action",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.72
+    },
+    {
+        "title": "Radiohead: In Rainbows From the Basement",
+        "release_date": "2008-05-03",
+        "budget": None,
+        "box_office": None,
+        "production_company": "XL Recordings",
+        "duration": 55,
+        "director": "Unknown",
+        "director_country": "UK",
+        "genre": "Music",
+        "subgenre": "Live Performance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.48
+    },
+    {
+        "title": "There Will Be Blood",
+        "release_date": "2007-12-26",
+        "budget": 25000000,
+        "box_office": 76500000,
+        "production_company": "Paramount Vantage",
+        "duration": 158,
+        "director": "Paul Thomas Anderson",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Historical",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.31
+    },
+    {
+        "title": "Across the Universe",
+        "release_date": "2007-09-14",
+        "budget": 45000000,
+        "box_office": 29500000,
+        "production_company": "Revolution Studios",
+        "duration": 133,
+        "director": "Julie Taymor",
+        "director_country": "USA",
+        "genre": "Musical",
+        "subgenre": "Drama, Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.3,
+        "rym_rating": 3.68
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "release_date": "2007-07-11",
+        "budget": 150000000,
+        "box_office": 942000000,
+        "production_company": "Warner Bros.",
+        "duration": 138,
+        "director": "David Yates",
+        "director_country": "UK",
+        "genre": "Fantasy",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.5,
+        "rym_rating": 3.78
+    },
+{
+        "title": "Ratatouille",
+        "release_date": "2007-06-29",
+        "budget": 150000000,
+        "box_office": 623700000,
+        "production_company": "Pixar Animation Studios",
+        "duration": 111,
+        "director": "Brad Bird",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Comedy, Family",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.14
+    },
+    {
+        "title": "No Country for Old Men",
+        "release_date": "2007-11-21",
+        "budget": 25000000,
+        "box_office": 171600000,
+        "production_company": "Miramax Films",
+        "duration": 122,
+        "director": "Ethan Coen, Joel Coen",
+        "director_country": "USA",
+        "genre": "Thriller",
+        "subgenre": "Crime, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.25
+    },
+    {
+        "title": "Control",
+        "release_date": "2007-10-05",
+        "budget": 4500000,
+        "box_office": 8800000,
+        "production_company": "The Weinstein Company",
+        "duration": 122,
+        "director": "Anton Corbijn",
+        "director_country": "Netherlands",
+        "genre": "Drama",
+        "subgenre": "Biography, Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 4.00
+    },
+    {
+        "title": "Zodiac",
+        "release_date": "2007-03-02",
+        "budget": 65000000,
+        "box_office": 84900000,
+        "production_company": "Paramount Pictures",
+        "duration": 157,
+        "director": "David Fincher",
+        "director_country": "USA",
+        "genre": "Thriller",
+        "subgenre": "Crime, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 4.12
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "release_date": "2007-02-16",
+        "budget": 20000000,
+        "box_office": 137600000,
+        "production_company": "Walt Disney Pictures",
+        "duration": 96,
+        "director": "Gábor Csupó",
+        "director_country": "Hungary",
+        "genre": "Fantasy",
+        "subgenre": "Drama, Family",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.63
+    },
+    {
+        "title": "Ghost Rider",
+        "release_date": "2007-02-16",
+        "budget": 110000000,
+        "box_office": 228700000,
+        "production_company": "Columbia Pictures",
+        "duration": 110,
+        "director": "Mark Steven Johnson",
+        "director_country": "USA",
+        "genre": "Action",
+        "subgenre": "Fantasy, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 5.3,
+        "rym_rating": 2.88
+    },
+    {
+        "title": "The Prestige",
+        "release_date": "2006-10-20",
+        "budget": 40000000,
+        "box_office": 109700000,
+        "production_company": "Warner Bros.",
+        "duration": 130,
+        "director": "Christopher Nolan",
+        "director_country": "UK",
+        "genre": "Drama",
+        "subgenre": "Mystery, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.19
+    },
+    {
+        "title": "Death Note",
+        "release_date": "2006-06-17",
+        "budget": 5000000,
+        "box_office": 41000000,
+        "production_company": "Warner Bros. Japan",
+        "duration": 126,
+        "director": "Shusuke Kaneko",
+        "director_country": "Japan",
+        "genre": "Fantasy",
+        "subgenre": "Mystery, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.90
+    },
+    {
+        "title": "The Departed",
+        "release_date": "2006-10-06",
+        "budget": 90000000,
+        "box_office": 291500000,
+        "production_company": "Warner Bros.",
+        "duration": 151,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Thriller, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.5,
+        "rym_rating": 4.18
+    },
+    {
+        "title": "A Scanner Darkly",
+        "release_date": "2006-07-07",
+        "budget": 8700000,
+        "box_office": 7700000,
+        "production_company": "Warner Independent Pictures",
+        "duration": 100,
+        "director": "Richard Linklater",
+        "director_country": "USA",
+        "genre": "Sci-Fi",
+        "subgenre": "Drama, Mystery",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.0,
+        "rym_rating": 3.92
     }
+
 
     
 ]
