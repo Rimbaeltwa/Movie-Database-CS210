@@ -2590,7 +2590,492 @@ movies_data.extend([
         "personal_rating": None,  # Your rating here
         "imdb_rating": 7.0,
         "rym_rating": 3.92
+    },
+    {
+        "title": "Cars",
+        "release_date": "2006-06-09",
+        "budget": 120000000,
+        "box_office": 462200000,
+        "production_company": "Pixar Animation Studios",
+        "duration": 117,
+        "director": "John Lasseter",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Comedy, Family",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.35
+    },
+    {
+        "title": "V for Vendetta",
+        "release_date": "2006-03-17",
+        "budget": 54000000,
+        "box_office": 132511035,
+        "production_company": "Warner Bros.",
+        "duration": 132,
+        "director": "James McTeigue",
+        "director_country": "Australia",
+        "genre": "Action",
+        "subgenre": "Drama, Sci-Fi",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.10
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "release_date": "2005-11-18",
+        "budget": 150000000,
+        "box_office": 896400000,
+        "production_company": "Warner Bros.",
+        "duration": 157,
+        "director": "Mike Newell",
+        "director_country": "UK",
+        "genre": "Adventure",
+        "subgenre": "Family, Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.7,
+        "rym_rating": 3.75
+    },
+    {
+        "title": "Thank You for Smoking",
+        "release_date": "2006-03-17",
+        "budget": 10000000,
+        "box_office": 39800000,
+        "production_company": "Fox Searchlight Pictures",
+        "duration": 92,
+        "director": "Jason Reitman",
+        "director_country": "Canada",
+        "genre": "Comedy",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 3.85
+    },
+    {
+        "title": "No Direction Home: Bob Dylan",
+        "release_date": "2005-09-26",
+        "budget": None,
+        "box_office": None,
+        "production_company": "PBS",
+        "duration": 208,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Documentary",
+        "subgenre": "Biography, Music",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.8,
+        "rym_rating": 4.25
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "release_date": "2005-07-15",
+        "budget": 150000000,
+        "box_office": 474968763,
+        "production_company": "Warner Bros.",
+        "duration": 115,
+        "director": "Tim Burton",
+        "director_country": "USA",
+        "genre": "Adventure",
+        "subgenre": "Comedy, Family",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.7,
+        "rym_rating": 3.55
+    },
+    {
+        "title": "Mr. & Mrs. Smith",
+        "release_date": "2005-06-10",
+        "budget": 110000000,
+        "box_office": 487287646,
+        "production_company": "20th Century Fox",
+        "duration": 120,
+        "director": "Doug Liman",
+        "director_country": "USA",
+        "genre": "Action",
+        "subgenre": "Comedy, Crime",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.5,
+        "rym_rating": 3.45
+    },
+    {
+        "title": "Batman Begins",
+        "release_date": "2005-06-15",
+        "budget": 150000000,
+        "box_office": 373710347,
+        "production_company": "Warner Bros.",
+        "duration": 140,
+        "director": "Christopher Nolan",
+        "director_country": "UK",
+        "genre": "Action",
+        "subgenre": "Adventure",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.15
+    },
+    {
+        "title": "Pardon",
+        "release_date": "2005-11-25",
+        "budget": None,
+        "box_office": None,
+        "production_company": "BKM Film",
+        "duration": 99,
+        "director": "Mert Baykal",
+        "director_country": "Turkey",
+        "genre": "Comedy",
+        "subgenre": "Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 3.90
+    },
+    {
+        "title": "Constantine",
+        "release_date": "2005-02-18",
+        "budget": 100000000,
+        "box_office": 230900000,
+        "production_company": "Warner Bros.",
+        "duration": 121,
+        "director": "Francis Lawrence",
+        "director_country": "USA",
+        "genre": "Action",
+        "subgenre": "Fantasy, Horror",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.0,
+        "rym_rating": 3.60
+    },
+    {
+        "title": "Downfall",
+        "release_date": "2004-09-16",
+        "budget": 15000000,
+        "box_office": 92802807,
+        "production_company": "Constantin Film",
+        "duration": 156,
+        "director": "Oliver Hirschbiegel",
+        "director_country": "Germany",
+        "genre": "Biography",
+        "subgenre": "Drama, History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.2,
+        "rym_rating": 4.30
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "release_date": "2004-06-04",
+        "budget": 130000000,
+        "box_office": 796700000,
+        "production_company": "Warner Bros.",
+        "duration": 142,
+        "director": "Alfonso Cuarón",
+        "director_country": "Mexico",
+        "genre": "Adventure",
+        "subgenre": "Family, Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 3.95
+    },
+{
+        "title": "Dune: Part Two",
+        "release_date": "2024-03-15",
+        "budget": 190000000,
+        "box_office": None,  # Expected after release
+        "production_company": "Legendary Entertainment",
+        "duration": 150,  # Approximate, can update post-release
+        "director": "Denis Villeneuve",
+        "director_country": "Canada",
+        "genre": "Science Fiction",
+        "subgenre": "Adventure, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": None,  # Update post-release
+        "rym_rating": None  # Update post-release
+    },
+    {
+        "title": "Godzilla Minus One",
+        "release_date": "2023-11-03",
+        "budget": None,  # Not officially disclosed
+        "box_office": None,  # Update with official numbers
+        "production_company": "Toho Co., Ltd.",
+        "duration": 112,
+        "director": "Takashi Yamazaki",
+        "director_country": "Japan",
+        "genre": "Action",
+        "subgenre": "Sci-Fi, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.30
+    },
+    {
+        "title": "Shane Gillis: Beautiful Dogs",
+        "release_date": "2024-01-10",
+        "budget": None,  # Likely minimal for a comedy special
+        "box_office": None,  # Typically not applicable
+        "production_company": "Netflix",
+        "duration": 60,
+        "director": None,  # Likely self-directed or by a special director
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Stand-Up",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": None,  # Update post-release
+        "rym_rating": None  # Update post-release
+    },
+    {
+        "title": "The Wonderful Story of Henry Sugar",
+        "release_date": "2023-09-27",
+        "budget": 14000000,
+        "box_office": None,  # Limited release
+        "production_company": "Netflix",
+        "duration": 39,
+        "director": "Wes Anderson",
+        "director_country": "USA",
+        "genre": "Adventure",
+        "subgenre": "Drama, Fantasy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.6,
+        "rym_rating": 4.05
+    },
+    {
+        "title": "Oppenheimer",
+        "release_date": "2023-07-21",
+        "budget": 100000000,
+        "box_office": 942100000,
+        "production_company": "Universal Pictures",
+        "duration": 180,
+        "director": "Christopher Nolan",
+        "director_country": "UK",
+        "genre": "Biography",
+        "subgenre": "Drama, History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.6,
+        "rym_rating": 4.45
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "release_date": "2023-10-20",
+        "budget": 200000000,
+        "box_office": 230000000,
+        "production_company": "Apple Studios",
+        "duration": 206,
+        "director": "Martin Scorsese",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Drama, History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.1,
+        "rym_rating": 4.20
+    },
+    {
+        "title": "Puss in Boots: The Last Wish",
+        "release_date": "2022-12-21",
+        "budget": 90000000,
+        "box_office": 480000000,
+        "production_company": "DreamWorks Animation",
+        "duration": 102,
+        "director": "Joel Crawford",
+        "director_country": "USA",
+        "genre": "Animation",
+        "subgenre": "Adventure, Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 4.10
+    },
+    {
+        "title": "The Banshees of Inisherin",
+        "release_date": "2022-10-21",
+        "budget": 20000000,
+        "box_office": 54000000,
+        "production_company": "Searchlight Pictures",
+        "duration": 114,
+        "director": "Martin McDonagh",
+        "director_country": "UK",
+        "genre": "Drama",
+        "subgenre": "Comedy",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.8,
+        "rym_rating": 4.30
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "release_date": "2022-03-25",
+        "budget": 25000000,
+        "box_office": 141000000,
+        "production_company": "A24",
+        "duration": 139,
+        "director": "Daniel Kwan, Daniel Scheinert",
+        "director_country": "USA",
+        "genre": "Science Fiction",
+        "subgenre": "Adventure, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.40
+    },
+    {
+        "title": "Don't Look Up",
+        "release_date": "2021-12-24",
+        "budget": 75000000,
+        "box_office": None,  # Netflix release
+        "production_company": "Netflix",
+        "duration": 138,
+        "director": "Adam McKay",
+        "director_country": "USA",
+        "genre": "Comedy",
+        "subgenre": "Drama, Sci-Fi",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.80
+    },
+    {
+        "title": "The Beatles: Get Back",
+        "release_date": "2021-11-25",
+        "budget": None,  # Not disclosed
+        "box_office": None,  # Released on Disney+
+        "production_company": "Disney+",
+        "duration": 468,  # Total runtime for the series (approx. 7 hours, split into episodes)
+        "director": "Peter Jackson",
+        "director_country": "New Zealand",
+        "genre": "Documentary",
+        "subgenre": "Music, History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 9.0,
+        "rym_rating": 4.5
+    },
+    {
+        "title": "Squid Game",
+        "release_date": "2021-09-17",
+        "budget": 21400000,  # Approximate for the entire series
+        "box_office": None,  # Released on Netflix
+        "production_company": "Netflix",
+        "duration": 485,  # Total runtime for the series (approx. 8 hours)
+        "director": "Hwang Dong-hyuk",
+        "director_country": "South Korea",
+        "genre": "Drama",
+        "subgenre": "Thriller, Survival",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.2
+    },
+    {
+        "title": "Spencer",
+        "release_date": "2021-11-05",
+        "budget": 18000000,
+        "box_office": 24000000,
+        "production_company": "NEON",
+        "duration": 117,
+        "director": "Pablo Larraín",
+        "director_country": "Chile",
+        "genre": "Biography",
+        "subgenre": "Drama, History",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 6.7,
+        "rym_rating": 3.9
+    },
+    {
+        "title": "Dune",
+        "release_date": "2021-10-22",
+        "budget": 165000000,
+        "box_office": 402000000,
+        "production_company": "Legendary Entertainment",
+        "duration": 155,
+        "director": "Denis Villeneuve",
+        "director_country": "Canada",
+        "genre": "Science Fiction",
+        "subgenre": "Adventure, Drama",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.0,
+        "rym_rating": 4.1
+    },
+    {
+        "title": "The Suicide Squad",
+        "release_date": "2021-08-06",
+        "budget": 185000000,
+        "box_office": 168000000,
+        "production_company": "Warner Bros.",
+        "duration": 132,
+        "director": "James Gunn",
+        "director_country": "USA",
+        "genre": "Action",
+        "subgenre": "Comedy, Superhero",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.2,
+        "rym_rating": 3.8
+    },
+    {
+        "title": "You've Got Murder",
+        "release_date": None,  # Hypothetical or missing
+        "budget": None,
+        "box_office": None,
+        "production_company": None,
+        "duration": None,
+        "director": None,
+        "director_country": None,
+        "genre": None,
+        "subgenre": None,
+        "personal_rating": None,
+        "imdb_rating": None,
+        "rym_rating": None
+    },
+    {
+        "title": "El Camino: A Breaking Bad Movie",
+        "release_date": "2019-10-11",
+        "budget": None,  # Not disclosed
+        "box_office": None,  # Released on Netflix
+        "production_company": "Netflix",
+        "duration": 122,
+        "director": "Vince Gilligan",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Drama, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.3,
+        "rym_rating": 3.9
+    },
+    {
+        "title": "Joker",
+        "release_date": "2019-10-04",
+        "budget": 70000000,
+        "box_office": 1074000000,
+        "production_company": "Warner Bros.",
+        "duration": 122,
+        "director": "Todd Phillips",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Drama, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 8.4,
+        "rym_rating": 4.2
+    },
+    {
+        "title": "Uncut Gems",
+        "release_date": "2019-12-13",
+        "budget": 19000000,
+        "box_office": 50400000,
+        "production_company": "A24",
+        "duration": 135,
+        "director": "Josh Safdie, Benny Safdie",
+        "director_country": "USA",
+        "genre": "Crime",
+        "subgenre": "Drama, Thriller",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.4,
+        "rym_rating": 4.0
+    },
+    {
+        "title": "Marriage Story",
+        "release_date": "2019-11-06",
+        "budget": 18000000,
+        "box_office": None,  # Released on Netflix
+        "production_company": "Netflix",
+        "duration": 137,
+        "director": "Noah Baumbach",
+        "director_country": "USA",
+        "genre": "Drama",
+        "subgenre": "Romance",
+        "personal_rating": None,  # Your rating here
+        "imdb_rating": 7.9,
+        "rym_rating": 4.1
     }
+
+    
+    
+
+
 
 
     
