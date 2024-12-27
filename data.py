@@ -760,7 +760,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 3.0,  # Your rating here
+        "personal_rating": 3.0, 
         "imdb_rating": 7.4,
         "rym_rating": 3.59
     },
@@ -775,7 +775,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Thriller",
         "subgenre": "Drama",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 7.0,
         "rym_rating": 3.43
     },
@@ -790,7 +790,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Music",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.1,
         "rym_rating": 3.65
     },
@@ -805,7 +805,7 @@ movies_data = [
         "director_country": "Brazil",
         "genre": "Crime",
         "subgenre": "Drama",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.6,
         "rym_rating": 4.45
     },
@@ -820,7 +820,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Comedy",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.5,
         "rym_rating": 3.68
     },
@@ -835,7 +835,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 8.2,
         "rym_rating": 3.93
     },
@@ -850,7 +850,7 @@ movies_data = [
         "director_country": "New Zealand",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.8,
         "rym_rating": 4.30
     },
@@ -865,7 +865,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.6,
         "rym_rating": 3.63
     },
@@ -880,7 +880,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Sci-Fi",
         "subgenre": "Action",
-        "personal_rating": 1,  # Your rating here
+        "personal_rating": 1,   
         "imdb_rating": 5.7,
         "rym_rating": 2.88
     },
@@ -895,7 +895,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Animation",
         "subgenre": "Fantasy",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.6,
         "rym_rating": 4.45
     },
@@ -910,7 +910,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Mystery",
         "subgenre": "Thriller",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.0,
         "rym_rating": 4.36
     },
@@ -925,7 +925,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Thriller",
         "subgenre": "Action",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.6,
         "rym_rating": 3.91
     },
@@ -940,7 +940,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Mystery",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 7.5,
         "rym_rating": 3.91
     },
@@ -955,7 +955,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Sci-Fi",
         "subgenre": "Action",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.7,
         "rym_rating": 4.29
     },
@@ -970,7 +970,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Horror",
         "subgenre": "Mystery",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 6.5,
         "rym_rating": 3.42
     },
@@ -985,7 +985,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Drama",
         "subgenre": "Comedy",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.2,
         "rym_rating": 4.04
     },
@@ -1000,7 +1000,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Crime",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.1,
         "rym_rating": 4.15
     },
@@ -1015,7 +1015,7 @@ movies_data = [
         "director_country": "Canada",
         "genre": "Romance",
         "subgenre": "Drama",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.9,
         "rym_rating": 3.68
     },
@@ -1030,7 +1030,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Mystery",
         "subgenre": "Thriller",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.6,
         "rym_rating": 4.08
     },
@@ -1045,7 +1045,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Music",
         "subgenre": "Concert Film",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.8,
         "rym_rating": 4.01
     },
@@ -1060,7 +1060,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Thriller",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.1,
         "rym_rating": 4.23
     },
@@ -1075,7 +1075,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.7,
         "rym_rating": 3.83
     },
@@ -1090,7 +1090,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Sci-Fi",
         "subgenre": "Thriller",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.0,
         "rym_rating": 4.05
     },
@@ -1105,7 +1105,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Documentary",
         "subgenre": "Music",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 9.0,
         "rym_rating": 4.55
     },
@@ -1120,7 +1120,7 @@ movies_data = [
         "director_country": "Poland",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,   
         "imdb_rating": 6.5,
         "rym_rating": 3.32
     },
@@ -1135,7 +1135,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Adventure",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.3,
         "rym_rating": 4.12
     },
@@ -1151,7 +1151,7 @@ movies_data = [
         "director_country": "Hong Kong",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 7.7,
         "rym_rating": 4.12
     },
@@ -1166,7 +1166,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Mystery",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.5,
         "rym_rating": 4.17
     },
@@ -1181,7 +1181,7 @@ movies_data = [
         "director_country": "France",
         "genre": "Action",
         "subgenre": "Drama",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.5,
         "rym_rating": 4.14
     },
@@ -1196,7 +1196,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Crime",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 9.3,
         "rym_rating": 4.46
     },
@@ -1211,7 +1211,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 8.8,
         "rym_rating": 4.18
     },
@@ -1226,7 +1226,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Adventure",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.5,
         "rym_rating": 4.25
     },
@@ -1241,7 +1241,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Drama",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.9,
         "rym_rating": 4.41
     },
@@ -1256,7 +1256,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Music",
         "subgenre": "Live Performance",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 9.1,
         "rym_rating": 4.58
     },
@@ -1271,7 +1271,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Survival",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 7.1,
         "rym_rating": 3.40
     },
@@ -1286,7 +1286,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Mystery",
         "subgenre": "Horror",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.2,
         "rym_rating": 4.00
     },
@@ -1301,7 +1301,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Thriller",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.3,
         "rym_rating": 4.29
     },
@@ -1316,7 +1316,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.2,
         "rym_rating": 3.61
     },
@@ -1331,7 +1331,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Thriller",
         "subgenre": "Crime",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.6,
         "rym_rating": 4.27
     },
@@ -1346,7 +1346,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Fantasy",
         "subgenre": "Romance",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.9,
         "rym_rating": 4.04
     },
@@ -1361,7 +1361,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Family",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.7,
         "rym_rating": 3.75
     },
@@ -1376,7 +1376,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Biography",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.7,
         "rym_rating": 4.41
     },
@@ -1391,7 +1391,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Mystery",
         "subgenre": "Drama",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.8,
         "rym_rating": 4.45
     },
@@ -1406,7 +1406,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Drama",
         "subgenre": "Coming of Age",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 8.1,
         "rym_rating": 4.00
     },
@@ -1421,7 +1421,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Fantasy",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.5,
         "rym_rating": 3.87
     },
@@ -1436,7 +1436,7 @@ movies_data = [
         "director_country": "USA/UK",
         "genre": "War",
         "subgenre": "Drama",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.3,
         "rym_rating": 4.28
     },
@@ -1451,7 +1451,7 @@ movies_data = [
         "director_country": "Soviet Union",
         "genre": "War",
         "subgenre": "Drama",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.4,
         "rym_rating": 4.50
     },
@@ -1466,7 +1466,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Sci-Fi",
         "subgenre": "Adventure",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.5,
         "rym_rating": 4.24
     },
@@ -1481,7 +1481,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Music",
         "subgenre": "Concert Film",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.6,
         "rym_rating": 4.59
     },
@@ -1496,7 +1496,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Horror",
         "subgenre": "Slasher",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.4,
         "rym_rating": 3.89
     },
@@ -1511,7 +1511,7 @@ movies_data = [
         "director_country": "Czechia/USA",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.4,
         "rym_rating": 4.30
     },
@@ -1526,7 +1526,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Sci-Fi",
         "subgenre": "Thriller",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 7.4,
         "rym_rating": 3.83
     },
@@ -1541,7 +1541,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Adventure",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.1,
         "rym_rating": 4.10
     },
@@ -1556,7 +1556,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Coming of Age",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.9,
         "rym_rating": 3.92
     },
@@ -1571,7 +1571,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Music",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.5,
         "rym_rating": 4.25
     },
@@ -1586,7 +1586,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Biography",
         "subgenre": "Crime",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.2,
         "rym_rating": 4.11
     },
@@ -1601,7 +1601,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Romance",
         "subgenre": "Sci-Fi",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.0,
         "rym_rating": 4.07
     },
@@ -1616,7 +1616,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Documentary",
         "subgenre": "Film History",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 8.1,
         "rym_rating": 4.07
     },
@@ -1631,7 +1631,7 @@ movies_data = [
         "director_country": "Mexico",
         "genre": "Sci-Fi",
         "subgenre": "Thriller",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.7,
         "rym_rating": 3.86
     },
@@ -1646,7 +1646,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Horror",
         "subgenre": "Thriller",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 5.7,
         "rym_rating": 2.88
     },
@@ -1661,7 +1661,7 @@ movies_data = [
         "director_country": "France",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.7,
         "rym_rating": 3.98
     },
@@ -1676,7 +1676,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.2,
         "rym_rating": 3.50
     },
@@ -1691,7 +1691,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Biography",
         "subgenre": "Drama",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 6.0,
         "rym_rating": 2.95
     },
@@ -1706,7 +1706,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Western",
         "subgenre": "Revenge",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.4,
         "rym_rating": 4.18
     },
@@ -1721,7 +1721,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Coming of Age",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.9,
         "rym_rating": 3.82
     },
@@ -1736,7 +1736,7 @@ movies_data = [
         "director_country": "Denmark/UK",
         "genre": "Documentary",
         "subgenre": "Historical",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.2,
         "rym_rating": 4.19
     },
@@ -1751,7 +1751,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Anime",
         "subgenre": "Action",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.6,
         "rym_rating": 3.52
     },
@@ -1766,7 +1766,7 @@ movies_data = [
         "director_country": "New Zealand",
         "genre": "Sci-Fi",
         "subgenre": "Thriller",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 6.7,
         "rym_rating": 3.07
     },
@@ -1781,7 +1781,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 8.1,
         "rym_rating": 4.03
     },
@@ -1796,7 +1796,7 @@ movies_data = [
         "director_country": "Denmark",
         "genre": "Crime",
         "subgenre": "Thriller",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,   
         "imdb_rating": 7.8,
         "rym_rating": 4.01
     },
@@ -1811,7 +1811,7 @@ movies_data = [
         "director_country": "Mexico",
         "genre": "Musical",
         "subgenre": "Teen Drama",
-        "personal_rating": 1,  # Your rating here
+        "personal_rating": 1,   
         "imdb_rating": 6.9,
         "rym_rating": 3.12
     },
@@ -1826,7 +1826,7 @@ movies_data = [
         "director_country": "Iran",
         "genre": "Drama",
         "subgenre": "Family, Courtroom",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,   
         "imdb_rating": 8.3,
         "rym_rating": 4.12
     },
@@ -1841,7 +1841,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 7.7,
         "rym_rating": 3.85
     },
@@ -1856,7 +1856,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Drama",
         "subgenre": "Coming of Age",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.3,
         "rym_rating": 3.71
     },
@@ -1871,7 +1871,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Psychological Thriller",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.0,
         "rym_rating": 4.06
     },
@@ -1886,7 +1886,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Action",
         "subgenre": "Comedy, Fantasy",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.5,
         "rym_rating": 3.95
     },
@@ -1901,7 +1901,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Sci-Fi",
         "subgenre": "Thriller",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 8.8,
         "rym_rating": 4.24
     },
@@ -1916,7 +1916,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Family, Adventure",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.3,
         "rym_rating": 4.15
     },
@@ -1931,7 +1931,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Thriller",
         "subgenre": "Psychological, Mystery",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.2,
         "rym_rating": 4.00
     },
@@ -1946,7 +1946,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Biography",
         "subgenre": "Drama, Music",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,   
         "imdb_rating": 7.1,
         "rym_rating": 3.61
     },
@@ -1961,7 +1961,7 @@ movies_data = [
         "director_country": "India",
         "genre": "Comedy",
         "subgenre": "Drama, Inspirational",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,   
         "imdb_rating": 8.4,
         "rym_rating": 4.05
     },
@@ -1976,7 +1976,7 @@ movies_data = [
         "director_country": "Canada",
         "genre": "Sci-Fi",
         "subgenre": "Adventure, Fantasy",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 7.9,
         "rym_rating": 3.86
     },
@@ -1991,7 +1991,7 @@ movies_data = [
         "director_country": "South Africa",
         "genre": "Sci-Fi",
         "subgenre": "Action, Thriller",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 7.9,
         "rym_rating": 3.91
     },
@@ -2006,7 +2006,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,   
         "imdb_rating": 7.6,
         "rym_rating": 3.84
     },
@@ -2021,7 +2021,7 @@ movies_data = [
         "director_country": "Sweden",
         "genre": "Drama",
         "subgenre": "Family, Biography",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,   
         "imdb_rating": 8.1,
         "rym_rating": 3.93
     },
@@ -2036,7 +2036,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "War",
         "subgenre": "Action, Drama",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.3,
         "rym_rating": 4.18
     },
@@ -2051,7 +2051,7 @@ movies_data = [
         "director_country": "Greece",
         "genre": "Drama",
         "subgenre": "Psychological, Experimental",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,   
         "imdb_rating": 7.2,
         "rym_rating": 3.89
     },
@@ -2066,7 +2066,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Animation",
         "subgenre": "Drama, Comedy",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,   
         "imdb_rating": 8.1,
         "rym_rating": 4.13
     },
@@ -2081,7 +2081,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Fantasy, Romance",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.8,
         "rym_rating": 3.92
     },
@@ -2096,7 +2096,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Drama",
         "subgenre": "Experimental, Art",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": None,
         "rym_rating": 3.45
     },
@@ -2111,7 +2111,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Adventure, Comedy",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,  
         "imdb_rating": 6.6,
         "rym_rating": 3.45
     },
@@ -2126,7 +2126,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 8.0,
         "rym_rating": 4.02
     },
@@ -2141,7 +2141,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Romance",
         "subgenre": "Comedy, Drama",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5, 
         "imdb_rating": 7.1,
         "rym_rating": 3.66
     },
@@ -2156,7 +2156,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Action",
         "subgenre": "Crime, Drama",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5, 
         "imdb_rating": 9.0,
         "rym_rating": 4.44
     },
@@ -2171,7 +2171,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Sci-Fi, Romance",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 8.4,
         "rym_rating": 4.28
     },
@@ -2186,7 +2186,7 @@ movies_data = [
         "director_country": "Russia",
         "genre": "Action",
         "subgenre": "Thriller",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,  
         "imdb_rating": 6.7,
         "rym_rating": 3.28
     },
@@ -2201,7 +2201,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Comedy, Action",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 7.6,
         "rym_rating": 3.72
     },
@@ -2216,7 +2216,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Music",
         "subgenre": "Live Performance",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 8.8,
         "rym_rating": 4.48
     },
@@ -2231,7 +2231,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Historical",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 8.2,
         "rym_rating": 4.31
     },
@@ -2246,7 +2246,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Musical",
         "subgenre": "Drama, Romance",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,  
         "imdb_rating": 7.3,
         "rym_rating": 3.68
     },
@@ -2261,7 +2261,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Fantasy",
         "subgenre": "Adventure",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.5,
         "rym_rating": 3.78
     },
@@ -2276,7 +2276,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Comedy, Family",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,  
         "imdb_rating": 8.1,
         "rym_rating": 4.14
     },
@@ -2291,7 +2291,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Thriller",
         "subgenre": "Crime, Drama",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 8.2,
         "rym_rating": 4.25
     },
@@ -2306,7 +2306,7 @@ movies_data = [
         "director_country": "Netherlands",
         "genre": "Drama",
         "subgenre": "Biography, Music",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 7.7,
         "rym_rating": 4.00
     },
@@ -2321,7 +2321,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Thriller",
         "subgenre": "Crime, Drama",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 7.7,
         "rym_rating": 4.12
     },
@@ -2336,7 +2336,7 @@ movies_data = [
         "director_country": "Hungary",
         "genre": "Fantasy",
         "subgenre": "Drama, Family",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.2,
         "rym_rating": 3.63
     },
@@ -2351,7 +2351,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Action",
         "subgenre": "Fantasy, Thriller",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,  
         "imdb_rating": 5.3,
         "rym_rating": 2.88
     },
@@ -2366,7 +2366,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Drama",
         "subgenre": "Mystery, Thriller",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 8.5,
         "rym_rating": 4.19
     },
@@ -2381,7 +2381,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Fantasy",
         "subgenre": "Mystery, Thriller",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 7.6,
         "rym_rating": 3.90
     },
@@ -2396,7 +2396,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Thriller, Drama",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,  
         "imdb_rating": 8.5,
         "rym_rating": 4.18
     },
@@ -2411,7 +2411,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Sci-Fi",
         "subgenre": "Drama, Mystery",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,  
         "imdb_rating": 7.0,
         "rym_rating": 3.92
     },
@@ -2426,7 +2426,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Comedy, Family",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,  
         "imdb_rating": 7.2,
         "rym_rating": 3.35
     },
@@ -2441,7 +2441,7 @@ movies_data = [
         "director_country": "Australia",
         "genre": "Action",
         "subgenre": "Drama, Sci-Fi",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3, 
         "imdb_rating": 8.2,
         "rym_rating": 4.10
     },
@@ -2456,7 +2456,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Adventure",
         "subgenre": "Family, Fantasy",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.7,
         "rym_rating": 3.75
     },
@@ -2471,7 +2471,7 @@ movies_data = [
         "director_country": "Canada",
         "genre": "Comedy",
         "subgenre": "Drama",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.6,
         "rym_rating": 3.85
     },
@@ -2486,7 +2486,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Documentary",
         "subgenre": "Biography, Music",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 8.8,
         "rym_rating": 4.25
     },
@@ -2501,7 +2501,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Adventure",
         "subgenre": "Comedy, Family",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,  
         "imdb_rating": 6.7,
         "rym_rating": 3.55
     },
@@ -2516,7 +2516,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Action",
         "subgenre": "Comedy, Crime",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2,  
         "imdb_rating": 6.5,
         "rym_rating": 3.45
     },
@@ -2531,7 +2531,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Action",
         "subgenre": "Adventure",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 8.2,
         "rym_rating": 4.15
     },
@@ -2546,7 +2546,7 @@ movies_data = [
         "director_country": "Turkey",
         "genre": "Comedy",
         "subgenre": "Drama",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4, 
         "imdb_rating": 8.1,
         "rym_rating": 3.90
     },
@@ -2561,7 +2561,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Action",
         "subgenre": "Fantasy, Horror",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.0,
         "rym_rating": 3.60
     },
@@ -2576,7 +2576,7 @@ movies_data = [
         "director_country": "Germany",
         "genre": "Biography",
         "subgenre": "Drama, History",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 8.2,
         "rym_rating": 4.30
     },
@@ -2591,7 +2591,7 @@ movies_data = [
         "director_country": "Mexico",
         "genre": "Adventure",
         "subgenre": "Family, Fantasy",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 7.9,
         "rym_rating": 3.95
     },
@@ -2606,9 +2606,9 @@ movies_data = [
         "director_country": "Canada",
         "genre": "Science Fiction",
         "subgenre": "Adventure, Drama",
-        "personal_rating": 4,  # Your rating here
-        "imdb_rating": 8.5,  # Update post-release
-        "rym_rating": 3.81  # Update post-release
+        "personal_rating": 4,  
+        "imdb_rating": 8.5,  
+        "rym_rating": 3.81 
     },
     {
         "title": "Godzilla Minus One",
@@ -2621,7 +2621,7 @@ movies_data = [
         "director_country": "Japan",
         "genre": "Action",
         "subgenre": "Sci-Fi, Drama",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4, 
         "imdb_rating": 8.6,
         "rym_rating": 4.30
     },
@@ -2636,9 +2636,9 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Stand-Up",
-        "personal_rating": 4.5,  # Your rating here
-        "imdb_rating": 7.9,  # Update post-release
-        "rym_rating": None  # Update post-release
+        "personal_rating": 4.5,  
+        "imdb_rating": 7.9,  
+        "rym_rating": None  
     },
     {
         "title": "The Wonderful Story of Henry Sugar",
@@ -2651,7 +2651,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Adventure",
         "subgenre": "Drama, Fantasy",
-        "personal_rating": 3,  # Your rating here
+        "personal_rating": 3,  
         "imdb_rating": 7.6,
         "rym_rating": 4.05
     },
@@ -2666,7 +2666,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Biography",
         "subgenre": "Drama, History",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,  
         "imdb_rating": 8.6,
         "rym_rating": 4.45
     },
@@ -2681,7 +2681,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Drama, History",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 8.1,
         "rym_rating": 4.20
     },
@@ -2696,7 +2696,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Animation",
         "subgenre": "Adventure, Comedy",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 7.9,
         "rym_rating": 4.10
     },
@@ -2711,7 +2711,7 @@ movies_data = [
         "director_country": "UK",
         "genre": "Drama",
         "subgenre": "Comedy",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 7.8,
         "rym_rating": 4.30
     },
@@ -2726,7 +2726,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Science Fiction",
         "subgenre": "Adventure, Drama",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 8.0,
         "rym_rating": 4.40
     },
@@ -2741,7 +2741,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Comedy",
         "subgenre": "Drama, Sci-Fi",
-        "personal_rating": 2.5,  # Your rating here
+        "personal_rating": 2.5,
         "imdb_rating": 7.2,
         "rym_rating": 3.80
     },
@@ -2756,7 +2756,7 @@ movies_data = [
         "director_country": "New Zealand",
         "genre": "Documentary",
         "subgenre": "Music, History",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 9.0,
         "rym_rating": 4.5
     },
@@ -2771,7 +2771,7 @@ movies_data = [
         "director_country": "South Korea",
         "genre": "Drama",
         "subgenre": "Thriller, Survival",
-        "personal_rating": 4,  # Your rating here
+        "personal_rating": 4,  
         "imdb_rating": 8.0,
         "rym_rating": 4.2
     },
@@ -2786,7 +2786,7 @@ movies_data = [
         "director_country": "Chile",
         "genre": "Biography",
         "subgenre": "Drama, History",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 6.7,
         "rym_rating": 3.9
     },
@@ -2801,7 +2801,7 @@ movies_data = [
         "director_country": "Canada",
         "genre": "Science Fiction",
         "subgenre": "Adventure, Drama",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5, 
         "imdb_rating": 8.0,
         "rym_rating": 4.1
     },
@@ -2816,7 +2816,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Action",
         "subgenre": "Comedy, Superhero",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,
         "imdb_rating": 7.2,
         "rym_rating": 3.8
     },
@@ -2846,7 +2846,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Drama, Thriller",
-        "personal_rating": 2,  # Your rating here
+        "personal_rating": 2, 
         "imdb_rating": 7.3,
         "rym_rating": 3.9
     },
@@ -2861,7 +2861,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Drama, Thriller",
-        "personal_rating": 3.5,  # Your rating here
+        "personal_rating": 3.5,  
         "imdb_rating": 8.4,
         "rym_rating": 4.2
     },
@@ -2876,7 +2876,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Crime",
         "subgenre": "Drama, Thriller",
-        "personal_rating": 5,  # Your rating here
+        "personal_rating": 5,  
         "imdb_rating": 7.4,
         "rym_rating": 4.0
     },
@@ -2891,7 +2891,7 @@ movies_data = [
         "director_country": "USA",
         "genre": "Drama",
         "subgenre": "Romance",
-        "personal_rating": 4.5,  # Your rating here
+        "personal_rating": 4.5,  
         "imdb_rating": 7.9,
         "rym_rating": 4.1
     },
