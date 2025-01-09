@@ -1,4 +1,5 @@
-movies_data = [
+{
+    movies_data = [
     {
         "title": "Pink Floyd: The Wall",
         "release_date": "1982-07-14",
@@ -3676,3 +3677,4 @@ movies_data = [
         "rym_rating": 4.4
     }
 ]
+}
