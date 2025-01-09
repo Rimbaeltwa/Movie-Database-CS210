@@ -3675,18 +3675,4 @@ movies_data = [
         "imdb_rating": 8.0,
         "rym_rating": 4.4
     }
-    
-
-
-
-    
-    
-
-
-
-
-    
 ]
-
-
-
